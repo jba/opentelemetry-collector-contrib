@@ -1,0 +1,8 @@
+type: gometrics
+
+status:
+  class: receiver
+  stability:
+    alpha: [metrics]
+  codeowners:
+    active: [jba]
